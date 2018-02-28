@@ -1,0 +1,16 @@
+{
+  "name": "calendar",
+  "version": "0.1.0",
+  "description": "A command-line tool for logging calender events from google calendar.",
+  "main": "index.js",
+  "author": "Stephan Evers",
+  "license": "MIT",
+  "bin": {
+    "calendar": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.14.1",
+    "google-auth-library": "0.12.0",
+    "googleapis": "25.0.0"
+  }
+}

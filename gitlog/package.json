@@ -1,0 +1,14 @@
+{
+  "name": "gitlog",
+  "version": "0.1.0",
+  "description": "A command-line tool for logging commits on a given repository.",
+  "main": "index.js",
+  "author": "Stephan Evers",
+  "license": "MIT",
+  "bin": {
+    "gitlog": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.14.1"
+  }
+}

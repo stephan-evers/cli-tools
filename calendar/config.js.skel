@@ -1,0 +1,6 @@
+
+module.exports = {
+  'calenderId': {
+    'holidays': 'de.german#holiday@group.v.calendar.google.com',
+  }
+}
